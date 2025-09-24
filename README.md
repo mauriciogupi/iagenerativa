@@ -1,5 +1,7 @@
-# IA generativa
-## 🎯 Propósito del trabajo
+# Universidad ICESI 
+
+## IA generativa
+### 🎯 Propósito del trabajo
 
 El objetivo de este taller es diseñar una solución de inteligencia artificial generativa que permita a la empresa ficticia EcoMarket (dedicada a productos sostenibles) acelerar y mejorar la calidad del servicio al cliente.
 
@@ -14,3 +16,7 @@ El 20% restante son más complejas, requiriendo empatía y análisis humano.
 El tiempo de respuesta promedio es de 24 horas, lo que afecta la satisfacción del cliente.
 
 El trabajo busca que los estudiantes apliquen pensamiento crítico, análisis técnico y práctica con prompts en Python
+
+### Nombres: 
+- Angelica Maria Mayor 
+- Freddy Mauricio Gutierrez
