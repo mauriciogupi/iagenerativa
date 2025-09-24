@@ -1,0 +1,52 @@
+order_id,cliente,producto,categoria,estado,fecha_envío,fecha_estimada,retrasado,link
+50000,Jafet Villalonga Barreda,Crema Hidratante Vegana,cosmético,Retrasado,2025-09-11,2025-10-01,True,eco.market/track/50000-5
+50000,Jafet Villalonga Barreda,Leche de Avena,perecedero,Entregado,2025-09-15,2025-09-29,False,eco.market/track/50000-3
+50000,Jafet Villalonga Barreda,Yogur Vegano,perecedero,En camino,2025-09-16,2025-09-30,False,eco.market/track/50000-2
+50001,Gloria Bauzà Robles,Infusor de Té,hogar,Retrasado,2025-09-13,2025-09-26,True,eco.market/track/50001-3
+50001,Gloria Bauzà Robles,Cepillo para Dishes Eco,hogar,Retrasado,2025-09-14,2025-10-02,True,eco.market/track/50001-1
+50002,Malena Paredes Quintana,Café Orgánico,perecedero,En camino,2025-09-10,2025-09-29,False,eco.market/track/50002-2
+50002,Malena Paredes Quintana,Leche de Almendra,bebida,En camino,2025-09-13,2025-09-24,False,eco.market/track/50002-1
+50002,Malena Paredes Quintana,Frutas Deshidratadas,perecedero,Retrasado,2025-09-15,2025-09-26,True,eco.market/track/50002-3
+50003,Anselmo Navas Aller,Toallas Húmedas Orgánicas,higiene,Entregado,2025-09-11,2025-09-30,False,eco.market/track/50003-3
+50003,Anselmo Navas Aller,Bálsamo Labial Eco,cosmético,En camino,2025-09-15,2025-09-29,False,eco.market/track/50003-1
+50003,Anselmo Navas Aller,Bálsamo Labial Eco,cosmético,Retrasado,2025-09-15,2025-09-24,True,eco.market/track/50003-1
+50004,Pastor Lago Aragón,Leche de Avena,perecedero,Retrasado,2025-09-17,2025-09-25,True,eco.market/track/50004-3
+50005,Flor Carrión-Canals,Toallas de Bambú,hogar,Preparando,2025-09-11,2025-09-30,False,eco.market/track/50005-2
+50005,Flor Carrión-Canals,Desodorante Natural,higiene,En camino,2025-09-15,2025-09-24,False,eco.market/track/50005-3
+50005,Flor Carrión-Canals,Agua de Coco,bebida,Entregado,2025-09-15,2025-09-30,False,eco.market/track/50005-4
+50006,Camilo Acero Casado,Café Orgánico,perecedero,En camino,2025-09-17,2025-09-25,False,eco.market/track/50006-1
+50006,Camilo Acero Casado,Jabón Vegano,higiene,En camino,2025-09-14,2025-09-29,False,eco.market/track/50006-4
+50007,Marcial Carrillo Manzanares,Toallas Húmedas Orgánicas,higiene,Preparando,2025-09-12,2025-09-27,False,eco.market/track/50007-3
+50008,Maricruz Cervantes Heredia,Toallas Húmedas Orgánicas,higiene,Retrasado,2025-09-17,2025-09-26,True,eco.market/track/50008-3
+50009,Luisina Nilda Verdugo Blanco,Yogur Vegano,perecedero,En camino,2025-09-12,2025-09-26,False,eco.market/track/50009-2
+50010,Hugo Valle Donoso,Shampoo Vegano,cosmético,En camino,2025-09-17,2025-09-28,False,eco.market/track/50010-3
+50010,Hugo Valle Donoso,Bálsamo Labial Eco,cosmético,Preparando,2025-09-17,2025-09-26,False,eco.market/track/50010-1
+50011,Sabina Gonzalo,Toallas de Bambú,hogar,Entregado,2025-09-13,2025-10-01,False,eco.market/track/50011-1
+50012,Baldomero Virgilio Hernandez Gálvez,Frutas Deshidratadas,perecedero,Entregado,2025-09-09,2025-09-29,False,eco.market/track/50012-1
+50012,Baldomero Virgilio Hernandez Gálvez,Desodorante Natural,higiene,Preparando,2025-09-10,2025-09-28,False,eco.market/track/50012-4
+50013,Victoria Ochoa-Zabala,Pasta Dental Natural,higiene,Preparando,2025-09-09,2025-10-03,False,eco.market/track/50013-3
+50013,Victoria Ochoa-Zabala,Cereal Integral,perecedero,Entregado,2025-09-15,2025-09-26,False,eco.market/track/50013-2
+50013,Victoria Ochoa-Zabala,Leche de Almendra,bebida,Entregado,2025-09-17,2025-09-26,False,eco.market/track/50013-5
+50014,Ruperta Nereida Amaya Planas,Botella Reusable,hogar,Entregado,2025-09-14,2025-10-01,False,eco.market/track/50014-3
+50015,Mónica Artigas Corominas,Bálsamo Labial Eco,cosmético,Entregado,2025-09-14,2025-09-29,False,eco.market/track/50015-3
+50016,Pía de Benito,Frutas Deshidratadas,perecedero,Preparando,2025-09-15,2025-09-28,False,eco.market/track/50016-1
+50017,Susana Hernández-Royo,Botella Reusable,hogar,Preparando,2025-09-16,2025-09-25,False,eco.market/track/50017-2
+50017,Susana Hernández-Royo,Jabón Vegano,higiene,En camino,2025-09-14,2025-09-25,False,eco.market/track/50017-3
+50017,Susana Hernández-Royo,Té Verde Orgánico,bebida,Preparando,2025-09-09,2025-09-30,False,eco.market/track/50017-1
+50018,Tadeo Piquer,Crema Solar Natural,cosmético,Retrasado,2025-09-16,2025-09-25,True,eco.market/track/50018-2
+50019,Micaela Leal Vara,Toallas de Bambú,hogar,Entregado,2025-09-12,2025-10-02,False,eco.market/track/50019-2
+50019,Micaela Leal Vara,Yogur Vegano,perecedero,Preparando,2025-09-10,2025-09-27,False,eco.market/track/50019-4
+50019,Micaela Leal Vara,Jabón Vegano,higiene,Preparando,2025-09-13,2025-09-29,False,eco.market/track/50019-2
+50020,Bautista Chaves Martínez,Toallas de Bambú,hogar,En camino,2025-09-13,2025-09-29,False,eco.market/track/50020-4
+50020,Bautista Chaves Martínez,Leche de Avena,perecedero,Entregado,2025-09-11,2025-09-29,False,eco.market/track/50020-1
+50020,Bautista Chaves Martínez,Desodorante Natural,higiene,En camino,2025-09-15,2025-09-29,False,eco.market/track/50020-2
+50021,Paula Cabanillas Gimeno,Té Verde Orgánico,bebida,Preparando,2025-09-14,2025-09-25,False,eco.market/track/50021-2
+50021,Paula Cabanillas Gimeno,Toallas Húmedas Orgánicas,higiene,Entregado,2025-09-12,2025-09-28,False,eco.market/track/50021-5
+50021,Paula Cabanillas Gimeno,Desodorante Natural,higiene,Preparando,2025-09-12,2025-09-28,False,eco.market/track/50021-5
+50022,Luciano de Aparicio,Cepillo para Dishes Eco,hogar,Preparando,2025-09-18,2025-10-01,False,eco.market/track/50022-2
+50022,Luciano de Aparicio,Crema Solar Natural,cosmético,En camino,2025-09-15,2025-10-03,False,eco.market/track/50022-3
+50023,Américo Abad,Té Verde Orgánico,bebida,Preparando,2025-09-17,2025-09-26,False,eco.market/track/50023-5
+50023,Américo Abad,Leche de Almendra,bebida,Entregado,2025-09-11,2025-09-24,False,eco.market/track/50023-2
+50024,Isaías Hugo Villaverde Castrillo,Bebida Kombucha,bebida,Preparando,2025-09-13,2025-09-26,False,eco.market/track/50024-2
+50024,Isaías Hugo Villaverde Castrillo,Leche de Avena,perecedero,Entregado,2025-09-17,2025-09-30,False,eco.market/track/50024-5
+50024,Isaías Hugo Villaverde Castrillo,Bálsamo Labial Eco,cosmético,Entregado,2025-09-18,2025-09-27,False,eco.market/track/50024-2
