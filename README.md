@@ -1,4 +1,4 @@
-# iagenerativa
+# IA generativa
 ## 🎯 Propósito del trabajo
 
 El objetivo de este taller es diseñar una solución de inteligencia artificial generativa que permita a la empresa ficticia EcoMarket (dedicada a productos sostenibles) acelerar y mejorar la calidad del servicio al cliente.
